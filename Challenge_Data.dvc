@@ -1,0 +1,6 @@
+outs:
+- md5: 4d8fcd1406466cd58fd2f3f3cd11a05b.dir
+  size: 3534549059
+  nfiles: 16912
+  hash: md5
+  path: Challenge_Data
