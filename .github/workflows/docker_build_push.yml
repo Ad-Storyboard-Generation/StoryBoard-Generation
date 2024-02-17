@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/StoryBoard-Generation:${{ github.sha }}
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/storyboard-generation:${{ github.sha }}
