@@ -1,0 +1,11 @@
+names:
+  - Logo
+  - Call-To-Action (CTA) Button
+  - Text
+  - Interactive Element
+
+nc: 4
+
+path: /Users/basilel/Documents/StoryBoard-Generation/data
+train: images/train
+val: images/train
